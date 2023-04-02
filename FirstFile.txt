@@ -1,2 +1,3 @@
 Hello World
 First file modified by master
+First file modified in local repository
